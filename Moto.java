@@ -30,8 +30,8 @@ public class Moto extends Veiculo {
 
     @Override
     public String toString() {
-        return "Moto [Pezinho:  " + pezinho
-                + ", Capacete:  " + capacete
+        return "Moto [Pezinho:  " + getPezinho()
+                + ", Capacete:  " + getCapacete()
                 + ", Modelo:  " + getModelo()
                 + ", Preço Diaria:  " + getPrecoDiaria()
                 + ", Ano:  " + getAno()
