@@ -1,4 +1,3 @@
-import Carro.java.Veiculo;
 import java.util.Date;
 
 public class Agenda {
